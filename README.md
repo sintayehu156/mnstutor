@@ -1,34 +1,37 @@
-# Startup - Free Next.js Startup Website Template
+#MNS Tutoring
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
-
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
-
+Your Trusted Online Tutor Platform in academic excellence
 ### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
 
+# Personalized Learning
+We understand that every student is unique. That's why we create customized learning plans tailored to your strengths and areas for improvement.
 
+# Expert Tutors
+Our tutors are experts in their fields with years of teaching experience. They are dedicated to providing clear, concise, and effective instruction.
 
+# Flexible Scheduling
+We offer flexible scheduling options to accommodate your busy lifestyle. Choose from live sessions or pre-recorded videos to learn at your own pace.
 
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+# Interactive Lessons
+Our lessons are interactive and engaging, designed to keep you motivated and interested. Use our virtual whiteboard, quizzes, and multimedia tools for a dynamic learning experience.
 
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+# Comprehensive Subjects
+From math and science to languages and humanities, we cover a wide range of subjects to cater to your academic needs.
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+# Progress Tracking
+Keep track of your progress with regular assessments and feedback from your tutor. See how far you've come and what you need to focus on next.
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
 
 ### [🔌 Documentation](https://nextjstemplates.com/docs)
 
 ### ⚡ Deploy Now
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsintayehu156%2Fmnstutor)
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sintayehu156/mnstutor)
+
+
+<!-- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs) -->
 
