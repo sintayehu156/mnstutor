@@ -13,7 +13,7 @@ const Hero = () => {
               <div className="mx-auto max-w-[800px] text-center">
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   Your Trusted Online Tutor Platform in academic excellence</h1>
-                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                <p className="mb-12 text-base !leading-relaxed text-[#333333] sm:text-lg md:text-xl">
                   We are dedicated to empowering students across Ethiopia by providing top-notch virtual tutoring services.Whether you are struggling with a specific subject or aiming to excel further, our experienced tutors are here to guide you every step of the way. Join us today and unlock your full potential from the comfort of your home!
                 </p>
                 
