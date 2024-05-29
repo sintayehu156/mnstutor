@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo.png"
+                    src="/images/logo/logo1.png"
                     alt="logo"
                     className="w-full"
                     width={140}
@@ -116,7 +116,16 @@ const Footer = () => {
                     >
                       About
                     </Link>
-                  </li>
+                    </li>
+                    <li>
+                    <Link
+                      href="/contact"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
+                    >
+                      Contact
+                    </Link>
+                    </li>
+                  
                 </ul>
               </div>
             </div>
@@ -163,14 +172,6 @@ const Footer = () => {
                       Terms of Use
                     </Link>
                   </li>
-                  <li>
-                    <Link
-                      href="/about"
-                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
-                    >
-                      About
-                    </Link>
-                  </li>
                 </ul>
               </div>
             </div>
@@ -179,24 +180,7 @@ const Footer = () => {
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
-             Copyright{" "}
-              <a
-                href="http://uideck.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-primary"
-              >
-                2024
-              </a>{" "}
-              {" "}
-              <a
-                href="https://nextjstemplates.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-primary"
-              >
-                ---MNS Tutoring
-              </a>
+             Copyright &copy; 2024 MNS Tutoring
             </p>
           </div>
         </div>

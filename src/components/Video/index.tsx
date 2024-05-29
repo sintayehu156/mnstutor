@@ -13,14 +13,13 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="Student Resources          "
-          paragraph="We provide a wealth of resources to support your learning journey:
+          title="Student Resources"
+          paragraph="We provide a wealth of resources to support your learning journey
 
           Educational Videos: Access our library of pre-recorded video lessons on various subjects.
           Practice Tests: Take practice tests to assess your knowledge and prepare for exams.
           Study Guides: Use our comprehensive study guides to review key concepts and prepare for your classes.
           Tutoring Blog: Stay updated with our blog, featuring tips on studying, time management, and other educational topics.
-
           "
           center
           mb="80px"

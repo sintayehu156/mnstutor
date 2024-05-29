@@ -9,7 +9,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Our Tutors!"
-            paragraph="Our tutors are not just teachers; they are mentors who are passionate about helping you succeed. They are experts in their respective fields and have a proven track record of academic excellence. With their guidance, you'll gain a deeper understanding of your subjects and the confidence to excel in your studies."
+            paragraph="Our tutors are not just teachers, they are mentors who are passionate about helping you succeed. They are experts in their respective fields and have a proven track record of academic excellence. With their guidance, you'll gain a deeper understanding of your subjects and the confidence to excel in your studies."
             center
           />
 
