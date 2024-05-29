@@ -48,8 +48,8 @@ const Header = () => {
         }`}
       >
         <div className="container">
-          <div className="relative -mx-4 flex items-center justify-between">
-            <div className="w-[300px] max-w-full px-4 xl:mr-12">
+          <div className="relative w-full flex items-center justify-between">
+            <div className="w-[300px]  px-4 ">
               <Link
                 href="/"
                 className={`header-logo flex space-x-2 items-center w-full ${
@@ -61,30 +61,13 @@ const Header = () => {
                   alt="logo"
                   width={50}
                   height={20}
-                  className="w-full dark:hidden h-10 w-16"
+                  className="w-full h-10 w-16"
                 />
-                <Image
-                  src="/images/logo/logo.png"
-                  alt="logo"
-                  width={50}
-                  height={20}
-                  className="hidden w-full dark:block h-10 w-16"
-                />
-                    <span className="ml-2 text-lg font-semibold">MNS TUTOR</span>
-                 {/* <Image
-                  src="/images/logo/logo1.png"
-                  alt="logo"
-                  width={140}
-                  height={30}
-                  className="w-full dark:hidden"
-                />
-                <Image
-                  src="/images/logo/logo3.png"
-                  alt="logo"
-                  width={140}
-                  height={30}
-                  className="hidden w-full dark:block"
-                /> */}
+                    <div className="flex space-x-2">
+                    <span className="flex text-lg font-semibold">MNS</span>
+                    <span className="flex text-lg font-semibold">TUTOR</span>
+                    </div>
+                
               </Link>
             </div>
             <div className="flex w-full items-center justify-between px-4">
@@ -174,18 +157,6 @@ const Header = () => {
                 </nav>
               </div>
               <div className="flex items-center justify-end pr-16 lg:pr-0">
-                <Link
-                  href="/signin"
-                  className="hidden px-7 py-3 text-base font-medium text-dark hover:opacity-70 dark:text-white md:block"
-                >
-                  Sign In
-                </Link>
-                <Link
-                  href="/signup"
-                  className="ease-in-up shadow-btn hover:shadow-btn-hover hidden rounded-sm bg-primary px-8 py-3 text-base font-medium text-white transition duration-300 hover:bg-opacity-90 md:block md:px-9 lg:px-6 xl:px-9"
-                >
-                  Sign Up
-                </Link>
                 <div>
                   <ThemeToggler />
                 </div>
